@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifesto SYSTEM "file:/home/d3/Documents/UM/4/PRI/manifesto/manifesto.dtd">
+<manifesto>
+    <meta>
+        <id>TP6</id>
+        <título>Criação de Aplicação para Registo de Teses</título>
+        <dinício>22 de Outubro de 2018</dinício>
+        <dfim>28 de Outubro de 2018</dfim>
+        <supervisor>
+            <nome>José Carlos Ramalho</nome>
+            <email>jcr@di.uminho.pt</email>
+            <website>www.di.uminho.pt/~jcr</website>
+        </supervisor>
+    </meta>
+    <equipe>
+        <elemento>
+            <id>A77048</id>
+            <nome>Eduardo Gil Ribeiro da Rocha</nome>
+            <email>a77048@alunos.uminho.pt</email>
+            <foto path="../Imagens/foto.png"></foto>
+        </elemento>
+    </equipe>
+    <resumo>
+        <para>Este trabalho envolve a criação de um servidor Node.js para uma Aplicação de Registo de Teses.</para>
+        <para>A parte mais importante deste trabalho foi a compreensão do funcionamento de formulários HTML e 
+        as diferenças entre os vários métodos existentes, como GET e POST.</para>
+        <para>Como parte deste trabalho usamos a ferramenta Pug para desenvolvimento das páginas HTML.</para>
+        <para>Para guardar as teses registadas usamos um ficheiro de formato JSON como base de dados local.</para>
+    </resumo>
+    <resultados>
+        <resultado path="https://github.com/egrocha/PRI2018-A77048-TP6">Repositório do trabalho.</resultado>
+    </resultados>
+</manifesto>
